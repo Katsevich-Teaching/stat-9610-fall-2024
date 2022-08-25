@@ -2,6 +2,7 @@
 layout: home
 title: Schedule
 permalink: index.html
+nav_order: 1
 ---
 
 # Course schedule
