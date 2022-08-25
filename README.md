@@ -1,23 +1,9 @@
 ---
 layout: home
-title: STAT 9610
-nav_exclude: true
-permalink: index.html
+title: Schedule
 ---
 
-# STAT 9610 (Fall 2022)
-
-## Course links
-
-- [Syllabus](https://apps.wharton.upenn.edu/syllabi/202230/STAT9610001/) (course information)
-
-- [Gradescope](https://www.gradescope.com/courses/423692) (assignment submission and feedback)
-
-- [Canvas](https://canvas.upenn.edu/courses/1667344) (grades, class recordings)
-
-- [Ed Discussion](https://edstem.org/us/courses/25952/discussion/) (announcements, discussion forum)
-
-## Course schedule
+# Course schedule
 
 Date | Unit | Topic | Readings | Assignments
 :---|:---|:---|:---|:---
