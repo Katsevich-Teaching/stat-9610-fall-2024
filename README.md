@@ -1,3 +1,10 @@
+---
+layout: home
+title: STAT 9610
+nav_exclude: true
+permalink: index.html
+---
+
 # STAT 9610 (Fall 2022)
 
 ## Course links
