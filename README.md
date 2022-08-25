@@ -1,39 +1,48 @@
----
-layout: home
-title: Just the Class
-nav_exclude: true
-permalink: index.html
-seo:
-  type: Course
-  name: Just the Class
----
+# STAT 9610 (Fall 2022)
 
-# Just the Class
+## Course links
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+- [Syllabus](https://apps.wharton.upenn.edu/syllabi/202230/STAT9610001/) (course information)
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+- [Gradescope](https://www.gradescope.com/courses/423692) (assignment submission and feedback)
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+- [Canvas](https://canvas.upenn.edu/courses/1667344) (grades, class recordings)
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+- [Ed Discussion](https://edstem.org/us/courses/25952/discussion/) (announcements, discussion forum)
 
-## Getting Started
+## Course schedule
 
-Getting started with Just the Class is simple.
-
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
-
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Date | Unit | Topic | Readings | Assignments
+:---|:---|:---|:---|:---
+Tue 8/30 | Linear models: Estimation | Intro to linear and generalized linear models | Lecture notes 1.1-1.2  | --
+Thu 9/1	| Linear models: Estimation | Least squares estimation | Lecture notes 1.3-1.5 | --
+Tue 9/6	| Linear models: Estimation | Correlation, multiple correlation, and R<sup>2</sup>  | Lecture notes 1.6 | --
+Thu 9/8 | Linear models: Estimation | Collinearity, adjustment, partial correlation | Lecture notes 1.7 | --
+Tue 9/13 | Linear models: Estimation | R Demo | Lecture notes 1.8, R4DS Ch. 1-8 | --
+Thu 9/15 | Linear models: Inference | TBD | TBD | --
+Tue 9/20 | Linear models: Inference | TBD | TBD | Homework 1 due at 10am
+Thu 9/22 | Linear models: Inference | TBD | TBD | --
+Tue 9/27 | Linear models: Inference | TBD | TBD | --
+Thu 9/29 | Linear models: Inference | TBD | TBD | --
+Tue 10/4 | Linear models: Misspecification | TBD | TBD | --
+Thu 10/6 | (Fall break) | (Fall break) | (Fall break) | (Fall break)
+Tue 10/11	| Linear models: Misspecification | TBD | TBD | Homework 2 due at 10am
+Thu 10/13 | Linear models: Misspecification | TBD | TBD | --
+Tue 10/18	| Linear models: Misspecification | TBD | TBD | --
+Thu 10/20	| Linear models: Misspecification | TBD | TBD | --
+Sun 10/23	| --	| --	| --	| Take-home midterm exam released at 9am
+Mon 10/24	| --	| --	| --	| Take-home midterm exam due at 9pm
+Tue 10/25	| GLMs: General theory | TBD | TBD | --
+Thu 10/27	| GLMs: General theory | TBD | TBD | Homework 3 due at 10am
+Tue 11/1	| GLMs: General theory | TBD | TBD | --
+Thu 11/3	| GLMs: General theory | TBD | TBD | --
+Tue 11/8	| GLMs: General theory | TBD | TBD | --
+Thu 11/10	| GLMs: Special cases | TBD | TBD | --
+Tue 11/15	| GLMs: Special cases | TBD | TBD | Homework 4 due at 10am
+Thu 11/17	| GLMs: Special cases | TBD | TBD | --
+Tue 11/22	| GLMs: Special cases | TBD | TBD | --
+Thu 11/24 | (Thanksgiving break) | (Thanksgiving break)	| (Thanksgiving break) | (Thanksgiving break)
+Tue 11/29	| GLMs: Special cases | TBD | TBD | --
+Thu 12/1	| Further topics | TBD | TBD | --
+Tue 12/6	| Further topics | TBD | TBD | Homework 5 due at 10am
+Thu 12/8 | Further topics | TBD | TBD | --
