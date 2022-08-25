@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Schedule
+permalink: index.html
 ---
 
 # Course schedule
