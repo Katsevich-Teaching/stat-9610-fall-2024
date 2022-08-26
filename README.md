@@ -5,7 +5,9 @@ permalink: index.html
 nav_order: 1
 ---
 
-# Course schedule
+# STAT 9610 (Fall 2022)
+
+## Course Schedule
 
 Date | Unit | Topic | Readings | Assignments
 :---|:---|:---|:---|:---
