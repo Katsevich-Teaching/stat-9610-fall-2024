@@ -17,7 +17,7 @@ Tue 9/6	| Linear models: Estimation | Correlation, multiple correlation, and R<s
 Thu 9/8 | Linear models: Estimation | Collinearity, adjustment, partial correlation | Lecture notes 1.7 | --
 Tue 9/13 | Linear models: Estimation | R Demo | Lecture notes 1.8, R4DS Ch. 1-8 | --
 Thu 9/15 | Linear models: Inference | TBD | TBD | --
-Tue 9/20 | Linear models: Inference | TBD | TBD | [Homework 1](https://classroom.github.com/a/Au0hJo0o) due at 10am
+Tue 9/20 | Linear models: Inference | TBD | TBD | Homework 1 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-1.pdf), [GitHub](https://classroom.github.com/a/Au0hJo0o)) due at 10am
 Thu 9/22 | Linear models: Inference | TBD | TBD | --
 Tue 9/27 | Linear models: Inference | TBD | TBD | --
 Thu 9/29 | Linear models: Inference | TBD | TBD | --
