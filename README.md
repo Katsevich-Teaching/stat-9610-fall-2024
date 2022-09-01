@@ -11,7 +11,7 @@ nav_order: 1
 
 Date | Unit | Topic | Readings | Assignments
 :---|:---|:---|:---|:---
-Tue 8/30 | 1. Linear models: Estimation | Intro to linear and generalized linear models | Lecture notes 1.1-1.2  | --
+Tue 8/30 | 1. Linear models: Estimation | [Intro to linear and generalized linear models](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=622ed284-1d60-432d-9b36-af00012ba755) | Lecture notes 1.1-1.2  | --
 Thu 9/1	| 1. Linear models: Estimation | Least squares estimation | Lecture notes 1.3-1.5 | --
 Tue 9/6	| 1. Linear models: Estimation | Correlation, multiple correlation, and R<sup>2</sup>  | Lecture notes 1.6 | --
 Thu 9/8 | 1. Linear models: Estimation | Collinearity, adjustment, partial correlation | Lecture notes 1.7 | --
