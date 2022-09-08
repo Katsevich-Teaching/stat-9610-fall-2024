@@ -14,7 +14,7 @@ Date | Unit | Topic | Readings | Assignments
 Tue 8/30 | 1. Linear models: Estimation | [Intro to linear and generalized linear models](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=622ed284-1d60-432d-9b36-af00012ba755) | Lecture notes 1.1-1.2  | --
 Thu 9/1	| 1. Linear models: Estimation | [Least squares estimation](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=764934e7-7872-4de9-8c9b-af0200f2b941) | Lecture notes 1.3-1.5 | --
 Tue 9/6	| 1. Linear models: Estimation | [Correlation, multiple correlation, and R<sup>2</sup>](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0822ba5f-d187-4c2c-8535-af08010e0b74)  | Lecture notes 1.6 | --
-Thu 9/8 | 1. Linear models: Estimation | Collinearity, adjustment, partial correlation | Lecture notes 1.7 | --
+Thu 9/8 | 1. Linear models: Estimation | [Collinearity, adjustment, partial correlation](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60fffec1-1087-46ce-adf1-af0301546007) | Lecture notes 1.7 | --
 Tue 9/13 | 1. Linear models: Estimation | R Demo | Lecture notes 1.8, R4DS Ch. 1-8 | --
 Thu 9/15 | 2. Linear models: Inference | TBD | TBD | --
 Tue 9/20 | 2. Linear models: Inference | TBD | TBD | Homework 1 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-1.pdf), [GitHub](https://classroom.github.com/a/Au0hJo0o)) due at 10am
