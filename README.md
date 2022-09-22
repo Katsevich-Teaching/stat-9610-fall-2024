@@ -23,7 +23,7 @@ Tue 9/27 | 2. Linear models: Inference | Confidence intervals, practical conside
 Thu 9/29 | 2. Linear models: Inference | R Demo | Lecture notes 2.4, 2.6 | --
 Tue 10/4 | 3. Linear models: Misspecification | TBD | TBD | --
 Thu 10/6 | (Fall break) | (Fall break) | (Fall break) | (Fall break)
-Tue 10/11	| 3. Linear models: Misspecification | TBD | TBD | Homework 2 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-1.pdf), [GitHub](https://classroom.github.com/a/YdbCa9nl)) due at 10am
+Tue 10/11	| 3. Linear models: Misspecification | TBD | TBD | Homework 2 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-2.pdf), [GitHub](https://classroom.github.com/a/YdbCa9nl)) due at 10am
 Thu 10/13 | 3. Linear models: Misspecification | TBD | TBD | --
 Tue 10/18	| 3. Linear models: Misspecification | TBD | TBD | --
 Thu 10/20	| 3. Linear models: Misspecification | TBD | TBD | --
