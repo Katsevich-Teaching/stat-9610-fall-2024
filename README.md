@@ -18,7 +18,7 @@ Thu 9/8 | 1. Linear models: Estimation | [Collinearity, adjustment, partial corr
 Tue 9/13 | 1. Linear models: Estimation | [R Demo](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7020cf3c-fa28-46a3-933c-af03016ee0db) | Lecture notes 1.8, R4DS Ch. 1-8 | --
 Thu 9/15 | 2. Linear models: Inference | [Inferential preliminaries](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a7f0685-c21e-4c1e-bb52-af04011dd5cf) | Lecture notes 2.1, 2.2.1 | --
 Tue 9/20 | 2. Linear models: Inference | [Hypothesis testing](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b859024f-a5b4-4f15-a280-af0901125930) | Lecture notes 2.2.2 | Homework 1 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-1.pdf), [GitHub](https://classroom.github.com/a/Au0hJo0o)) due at 10am
-Thu 9/22 | 2. Linear models: Inference | Power of hypothesis testing | Lecture notes 2.3 | --
+Thu 9/22 | 2. Linear models: Inference | [Power of hypothesis testing](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=588338b5-871a-4890-92a7-af1101416ef7) | Lecture notes 2.3 | --
 Tue 9/27 | 2. Linear models: Inference | Confidence intervals, practical considerations | Lecture notes 2.4, 2.5 | --
 Thu 9/29 | 2. Linear models: Inference | R Demo | Lecture notes 2.4, 2.6 | --
 Tue 10/4 | 3. Linear models: Misspecification | TBD | TBD | --
