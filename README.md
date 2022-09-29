@@ -30,7 +30,7 @@ Thu 10/20	| 3. Linear models: Misspecification | TBD | TBD | --
 Sun 10/23	| --	| --	| --	| Take-home midterm exam released at 9am
 Mon 10/24	| --	| --	| --	| Take-home midterm exam due at 9pm
 Tue 10/25	| 4. GLMs: General theory | TBD | TBD | --
-Thu 10/27	| 4. GLMs: General theory | TBD | TBD | Homework 3 due at 10am
+Thu 10/27	| 4. GLMs: General theory | TBD | TBD | --
 Sat 10/29	| -- | -- | -- | Homework 3 due at 9pm
 Tue 11/1	| 4. GLMs: General theory | TBD | TBD | --
 Thu 11/3	| 4. GLMs: General theory | TBD | TBD | --
