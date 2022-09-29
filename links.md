@@ -7,7 +7,6 @@ nav_order: 4
 
 ## Textbooks
 
-- [Agresti](https://canvas.upenn.edu/courses/1667344/external_tools/139969): Foundations of linear and generalized linear models
 - [R for Data Science](https://r4ds.had.co.nz/): R programming background
 
 ## Resources
