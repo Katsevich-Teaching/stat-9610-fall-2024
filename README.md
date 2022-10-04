@@ -21,12 +21,12 @@ Tue 9/20 | 2. Linear models: Inference | [Hypothesis testing](https://upenn.host
 Thu 9/22 | 2. Linear models: Inference | [Power of hypothesis testing](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=588338b5-871a-4890-92a7-af1101416ef7) | Lecture notes 2.3 | --
 Tue 9/27 | 2. Linear models: Inference | [Confidence intervals, practical considerations](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b9b9aaa-acc8-4110-96aa-af17014a3126) | Lecture notes 2.4, 2.5 | --
 Thu 9/29 | 2. Linear models: Inference | [R Demo](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83689429-1c0f-464d-96d1-af1e0111a9ad) | Lecture notes 2.6 | --
-Tue 10/4 | 3. Linear models: Misspecification | TBD | TBD | --
+Tue 10/4 | 3. Linear models: Misspecification | Finish R demo, misspecification overview, non-normality, residual bootstrap | Lecture notes 2.6, 3.1 | --
 Thu 10/6 | (Fall break) | (Fall break) | (Fall break) | (Fall break)
-Tue 10/11	| 3. Linear models: Misspecification | TBD | TBD | Homework 2 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-2.pdf), [GitHub](https://classroom.github.com/a/YdbCa9nl)) due at 10am
-Thu 10/13 | 3. Linear models: Misspecification | TBD | TBD | --
-Tue 10/18	| 3. Linear models: Misspecification | TBD | TBD | --
-Thu 10/20	| 3. Linear models: Misspecification | TBD | TBD | --
+Tue 10/11	| 3. Linear models: Misspecification | Heteroskedastic and correlated errors | Lecture notes 3.2 | Homework 2 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-2.pdf), [GitHub](https://classroom.github.com/a/YdbCa9nl)) due at 10am
+Thu 10/13 | 3. Linear models: Misspecification | Model bias | Lecture notes 3.3 | --
+Tue 10/18	| 3. Linear models: Misspecification | Outliers | Lecture notes 3.4 | --
+Thu 10/20	| 3. Linear models: Misspecification | R demo | Lecture notes 3.5 | --
 Sun 10/23	| --	| --	| --	| Take-home midterm exam released at 9am
 Mon 10/24	| --	| --	| --	| Take-home midterm exam due at 9pm
 Tue 10/25	| 4. GLMs: General theory | TBD | TBD | --
