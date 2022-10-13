@@ -21,9 +21,9 @@ Tue 9/20 | 2. Linear models: Inference | [Hypothesis testing](https://upenn.host
 Thu 9/22 | 2. Linear models: Inference | [Power of hypothesis testing](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=588338b5-871a-4890-92a7-af1101416ef7) | Lecture notes 2.3 | --
 Tue 9/27 | 2. Linear models: Inference | [Confidence intervals, practical considerations](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b9b9aaa-acc8-4110-96aa-af17014a3126) | Lecture notes 2.4, 2.5 | --
 Thu 9/29 | 2. Linear models: Inference | [R Demo](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83689429-1c0f-464d-96d1-af1e0111a9ad) | Lecture notes 2.6 | --
-Tue 10/4 | 3. Linear models: Misspecification | Finish R demo, misspecification overview, non-normality | Lecture notes 2.6, 3.1 | --
+Tue 10/4 | 3. Linear models: Misspecification | [Finish R demo, misspecification overview, non-normality](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c49e135-ca9b-42a6-af34-af0f0126631e) | Lecture notes 2.6, 3.1 | --
 Thu 10/6 | (Fall break) | (Fall break) | (Fall break) | (Fall break)
-Tue 10/11	| 3. Linear models: Misspecification | Heteroskedastic and correlated errors | Lecture notes 3.2 | Homework 2 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-2.pdf), [GitHub](https://classroom.github.com/a/YdbCa9nl)) due at 10am
+Tue 10/11	| 3. Linear models: Misspecification | [Heteroskedastic and correlated errors](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7209ba75-daed-4d76-91ad-af1600fb435c) | Lecture notes 3.2 | Homework 2 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-2.pdf), [GitHub](https://classroom.github.com/a/YdbCa9nl)) due at 10am
 Thu 10/13 | 3. Linear models: Misspecification | Model bias | Lecture notes 3.3 | --
 Tue 10/18	| 3. Linear models: Misspecification | Outliers | Lecture notes 3.4 | --
 Thu 10/20	| 3. Linear models: Misspecification | R demo | Lecture notes 3.5 | --
