@@ -36,7 +36,7 @@ Tue 11/1	| 4. GLMs: General theory | Estimation in GLMs | Lecture notes 4.3  | -
 Thu 11/3	| 4. GLMs: General theory | Inference in GLMs | Lecture notes 4.4 | --
 Tue 11/8	| 4. GLMs: General theory | Inference in GLMs and R demo |  Lecture notes 4.4, 4.5 | --
 Thu 11/10	| 5. GLMs: Special cases | TBD | TBD | --
-Tue 11/15	| 5. GLMs: Special cases | TBD | TBD | Homework 4 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-3.pdf), [GitHub](https://classroom.github.com/a/g_MHMcQT)) due at 10am
+Tue 11/15	| 5. GLMs: Special cases | TBD | TBD | Homework 4 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-4.pdf), [GitHub](https://classroom.github.com/a/g_MHMcQT)) due at 10am
 Thu 11/17	| 5. GLMs: Special cases | TBD | TBD | --
 Tue 11/22	| 5. GLMs: Special cases | TBD | TBD | --
 Thu 11/24 | (Thanksgiving break) | (Thanksgiving break)	| (Thanksgiving break) | (Thanksgiving break)
