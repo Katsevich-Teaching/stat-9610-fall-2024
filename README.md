@@ -30,7 +30,7 @@ Thu 10/20	| 3. Linear models: Misspecification | [R demo](https://upenn.hosted.p
 Sun 10/23	| --	| --	| --	| Take-home midterm exam ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/midterm-fall-2022.pdf), [GitHub](https://classroom.github.com/a/POGEGiuW), [Solutions](https://canvas.upenn.edu/courses/1667344/files/folder/Exam%20Solutions?preview=115323235)) released at 9am (last year's midterm [PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/midterm-fall-2021.pdf), [GitHub](https://classroom.github.com/a/PshJiEP_), [Solutions](https://canvas.upenn.edu/courses/1667344/files/folder/Exam%20Solutions?preview=114981125))
 Mon 10/24	| --	| --	| --	| Take-home midterm exam due at 9pm
 Tue 10/25	| 4. GLMs: General theory | [Exponential dispersion models](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a5fbfb2-a6d6-4cb3-b5ce-af31015c7daf) | Lecture notes 4.1 | --
-Thu 10/27	| 4. GLMs: General theory | Unit deviance, saddlepoint approximation, GLM definition and examples | Lecture notes 4.1, 4.2 | --
+Thu 10/27	| 4. GLMs: General theory | [Unit deviance, saddlepoint approximation, GLM definition and examples](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6399f0f-ddf7-45cc-ab9e-af3200e4fa89) | Lecture notes 4.1, 4.2 | --
 Sat 10/29	| -- | -- | -- | Homework 3 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-3.pdf), [GitHub](https://classroom.github.com/a/izYHd83O)) due at 9pm
 Tue 11/1	| 4. GLMs: General theory | Estimation in GLMs | Lecture notes 4.3  | --
 Thu 11/3	| 4. GLMs: General theory | Inference in GLMs | Lecture notes 4.4 | --
