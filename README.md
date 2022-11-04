@@ -44,3 +44,5 @@ Tue 11/29	| 5. GLMs: Special cases | TBD | TBD | --
 Thu 12/1	| Further topics | TBD | TBD | --
 Tue 12/6	| Further topics | TBD | TBD | Homework 5 due at 10am
 Thu 12/8 | Further topics | TBD | TBD | --
+Thu 12/15 | -- | -- | -- | Take-home final exam released at 9am
+Fri 12/16 | -- | -- | -- | Take-home final exam due at 9pm
