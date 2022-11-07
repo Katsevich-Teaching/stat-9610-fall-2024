@@ -33,7 +33,7 @@ Tue 10/25	| 4. GLMs: General theory | [Exponential dispersion models](https://up
 Thu 10/27	| 4. GLMs: General theory | [Unit deviance, saddlepoint approximation, GLM definition and examples](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6399f0f-ddf7-45cc-ab9e-af3200e4fa89) | Lecture notes 4.1, 4.2 | --
 Sat 10/29	| -- | -- | -- | Homework 3 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-3.pdf), [GitHub](https://classroom.github.com/a/izYHd83O)) due at 9pm
 Tue 11/1	| 4. GLMs: General theory | [Estimation in GLMs](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3842759-ece0-4160-bb67-af3b0149addb) | Lecture notes 4.3  | --
-Thu 11/3	| 4. GLMs: General theory | Inference in GLMs | Lecture notes 4.4 | --
+Thu 11/3	| 4. GLMs: General theory | [Inference in GLMs](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=369fbdd3-8740-4577-b9de-af3c0137357d) | Lecture notes 4.4 | --
 Tue 11/8	| 4. GLMs: General theory | Inference in GLMs and R demo |  Lecture notes 4.4, 4.5 | --
 Thu 11/10	| 5. GLMs: Special cases | TBD | TBD | --
 Tue 11/15	| 5. GLMs: Special cases | TBD | TBD | Homework 4 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-4.pdf), [GitHub](https://classroom.github.com/a/g_MHMcQT)) due at 10am
