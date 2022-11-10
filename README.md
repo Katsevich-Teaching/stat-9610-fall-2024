@@ -34,14 +34,14 @@ Thu 10/27	| 4. GLMs: General theory | [Unit deviance, saddlepoint approximation,
 Sat 10/29	| -- | -- | -- | Homework 3 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-3.pdf), [GitHub](https://classroom.github.com/a/izYHd83O)) due at 9pm
 Tue 11/1	| 4. GLMs: General theory | [Estimation in GLMs](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3842759-ece0-4160-bb67-af3b0149addb) | Lecture notes 4.3  | --
 Thu 11/3	| 4. GLMs: General theory | [Inference in GLMs](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=369fbdd3-8740-4577-b9de-af3c0137357d) | Lecture notes 4.4 | --
-Tue 11/8	| 4. GLMs: General theory | Inference in GLMs and R demo |  Lecture notes 4.4, 4.5 | --
-Thu 11/10	| 5. GLMs: Special cases | TBD | TBD | --
-Tue 11/15	| 5. GLMs: Special cases | TBD | TBD | --
-Thu 11/17	| 5. GLMs: Special cases | TBD | TBD | --
+Tue 11/8	| 4. GLMs: General theory | Inference in GLMs |  Lecture notes 4.4, 4.5 | --
+Thu 11/10	| 5. GLMs: Special cases | Unit 4 R demo, logistic regression model | Lecture notes 4.5, 5.1.1 | --
+Tue 11/15	| 5. GLMs: Special cases | Logistic regression inference | Lecture notes 5.1.2 | --
+Thu 11/17	| 5. GLMs: Special cases | Poisson regression I | Lecture notes 5.2.1-5.2.3 | --
 Sat 11/19 | -- | -- | -- | Homework 4 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-4.pdf), [GitHub](https://classroom.github.com/a/g_MHMcQT)) due at 9pm
-Tue 11/22	| 5. GLMs: Special cases | TBD | TBD | --
+Tue 11/22	| 5. GLMs: Special cases | Poisson regression II | Lecture notes 5.2.4-5.2.7 | --
 Thu 11/24 | (Thanksgiving break) | (Thanksgiving break)	| (Thanksgiving break) | (Thanksgiving break)
-Tue 11/29	| 5. GLMs: Special cases | TBD | TBD | --
+Tue 11/29	| 5. GLMs: Special cases | Negative binomial regression | Lecture notes 5.3 | --
 Thu 12/1	| Further topics | TBD | TBD | --
 Tue 12/6	| Further topics | TBD | TBD | Homework 5 due at 10am
 Thu 12/8 | Further topics | TBD | TBD | --
