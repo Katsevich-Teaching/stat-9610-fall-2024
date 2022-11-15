@@ -35,7 +35,7 @@ Sat 10/29	| -- | -- | -- | Homework 3 ([PDF](https://katsevich-teaching.github.i
 Tue 11/1	| 4. GLMs: General theory | [Estimation in GLMs](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3842759-ece0-4160-bb67-af3b0149addb) | Lecture notes 4.3  | --
 Thu 11/3	| 4. GLMs: General theory | [Inference in GLMs](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=369fbdd3-8740-4577-b9de-af3c0137357d) | Lecture notes 4.4 | --
 Tue 11/8	| 4. GLMs: General theory | [Inference in GLMs](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d0340634-64f8-4350-ac0b-af3c0149d8f3) |  Lecture notes 4.4, 4.5 | --
-Thu 11/10	| 5. GLMs: Special cases | Unit 4 R demo, logistic regression model | Lecture notes 4.5, 5.1.1 | --
+Thu 11/10	| 5. GLMs: Special cases | [Unit 4 R demo, logistic regression model](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2095979-1c32-4b83-ab7d-af3f0103fb3c) | Lecture notes 4.5, 5.1.1 | --
 Tue 11/15	| 5. GLMs: Special cases | Logistic regression inference | Lecture notes 5.1.2 | --
 Thu 11/17	| 5. GLMs: Special cases | Poisson regression I | Lecture notes 5.2.1-5.2.3 | --
 Sat 11/19 | -- | -- | -- | Homework 4 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-4.pdf), [GitHub](https://classroom.github.com/a/g_MHMcQT)) due at 9pm
