@@ -39,7 +39,7 @@ Thu 11/10	| 5. GLMs: Special cases | [Unit 4 R demo, logistic regression model](
 Tue 11/15	| 5. GLMs: Special cases | [Logistic regression inference](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c57e31e6-4b49-475b-9dff-af4000f07762) | Lecture notes 5.1.2 | --
 Thu 11/17	| 5. GLMs: Special cases | [Poisson regression I](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bed2cb5-b835-4e59-a832-af40014104b3) | Lecture notes 5.2.1-5.2.3 | --
 Sat 11/19 | -- | -- | -- | Homework 4 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-4.pdf), [GitHub](https://classroom.github.com/a/g_MHMcQT)) due at 9pm
-Tue 11/22	| 5. GLMs: Special cases | Poisson regression II | Lecture notes 5.2.4-5.2.7 | --
+Tue 11/22	| 5. GLMs: Special cases | [Poisson regression II](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ee7593b-1b08-42cf-becc-af520164708f) | Lecture notes 5.2.4-5.2.7 | --
 Thu 11/24 | (Thanksgiving break) | (Thanksgiving break)	| (Thanksgiving break) | (Thanksgiving break)
 Tue 11/29	| 5. GLMs: Special cases | Negative binomial regression | Lecture notes 5.3 | --
 Thu 12/1	| Further topics | TBD | TBD | --
