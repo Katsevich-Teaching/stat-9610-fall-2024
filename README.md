@@ -41,7 +41,7 @@ Thu 11/17	| 5. GLMs: Special cases | [Poisson regression I](https://upenn.hosted
 Sat 11/19 | -- | -- | -- | Homework 4 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-4.pdf), [GitHub](https://classroom.github.com/a/g_MHMcQT)) due at 9pm
 Tue 11/22	| 5. GLMs: Special cases | [Poisson regression II](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ee7593b-1b08-42cf-becc-af520164708f) | Lecture notes 5.2.4-5.2.7 | --
 Thu 11/24 | (Thanksgiving break) | (Thanksgiving break)	| (Thanksgiving break) | (Thanksgiving break)
-Tue 11/29	| 5. GLMs: Special cases | Negative binomial regression and R demo | Lecture notes 5.3, 5.4 | --
+Tue 11/29	| 5. GLMs: Special cases | [Negative binomial regression and R demo](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4474f89-0f18-493f-820a-af5401725ec1) | Lecture notes 5.3, 5.4 | --
 Thu 12/1	| Further topics | TBD | TBD | --
 Tue 12/6	| Further topics | TBD | TBD | Homework 5 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-5.pdf), [GitHub](https://classroom.github.com/a/B2WF_Who)) due at 10am
 Thu 12/8 | Further topics | TBD | TBD | --
