@@ -38,13 +38,13 @@ Tue 11/8	| 4. GLMs: General theory | [Inference in GLMs](https://upenn.hosted.pa
 Thu 11/10	| 5. GLMs: Special cases | [Unit 4 R demo, logistic regression model](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2095979-1c32-4b83-ab7d-af3f0103fb3c) | Lecture notes 4.5, 5.1.1 | --
 Tue 11/15	| 5. GLMs: Special cases | [Logistic regression inference](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c57e31e6-4b49-475b-9dff-af4000f07762) | Lecture notes 5.1.2 | --
 Thu 11/17	| 5. GLMs: Special cases | [Poisson regression I](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bed2cb5-b835-4e59-a832-af40014104b3) | Lecture notes 5.2.1-5.2.3 | --
-Sat 11/19 | -- | -- | -- | Homework 4 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-4.pdf), [GitHub](https://classroom.github.com/a/g_MHMcQT)) due at 9pm
+Sat 11/19 | -- | -- | -- | Homework 4 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-4.pdf), [GitHub](https://classroom.github.com/a/g_MHMcQT), [Solutions](https://canvas.upenn.edu/courses/1667344/files/folder/Homework%20Solutions?preview=116719258)) due at 9pm
 Tue 11/22	| 5. GLMs: Special cases | [Poisson regression II](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ee7593b-1b08-42cf-becc-af520164708f) | Lecture notes 5.2.4-5.2.7 | --
 Thu 11/24 | (Thanksgiving break) | (Thanksgiving break)	| (Thanksgiving break) | (Thanksgiving break)
 Tue 11/29	| 5. GLMs: Special cases | [Negative binomial regression](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4474f89-0f18-493f-820a-af5401725ec1) | Lecture notes 5.3 | --
 Thu 12/1	| Further topics | [R demo, Intro to multiple testing](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b7b5b3cc-0940-4ef7-8a69-af54017df540) | Lecture notes 5.4 | --
-Tue 12/6	| Further topics | [Multiple testing](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c9da21a-67ef-4db1-bb19-af5b01636523) | Lecture notes 6.1 | --
-Thu 12/8 | Further topics | TBD | TBD | --
-Fri 12/9 | -- | -- | -- |  Homework 5 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-5.pdf), [GitHub](https://classroom.github.com/a/B2WF_Who)) due at 9pm
+Tue 12/6	| Further topics | [FWER control](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c9da21a-67ef-4db1-bb19-af5b01636523) | Lecture notes 6.1 | --
+Thu 12/8 | Further topics | [FDR control](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b6e546e-e7db-4f47-8256-af5b017290e4) | Lecture notes 6.1 | --
+Fri 12/9 | -- | -- | -- |  Homework 5 ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2022/assets/homework-5.pdf), [GitHub](https://classroom.github.com/a/B2WF_Who), [Solutions](https://canvas.upenn.edu/courses/1667344/files/folder/Homework%20Solutions?preview=117112279)) due at 9pm
 Thu 12/15 | -- | -- | -- | Take-home final exam released at 9am
 Fri 12/16 | -- | -- | -- | Take-home final exam due at 9pm
