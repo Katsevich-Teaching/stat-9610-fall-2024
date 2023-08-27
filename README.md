@@ -28,16 +28,16 @@ Thu 10/12 | 3. Linear models: Misspecification | TBD | TBD | --
 Tue 10/17 | 3. Linear models: Misspecification | TBD | TBD | --
 Thu 10/19 | 3. Linear models: Misspecification | TBD | TBD | --
 Tue 10/24 | 4. GLMs: General theory | TBD | TBD | --
-Thu 10/26 | 4. GLMs: General theory | TBD | TBD | --
+Thu 10/26 | 4. GLMs: General theory | TBD | TBD | Homework 3 due at 10am
 Tue 10/31 | 4. GLMs: General theory | TBD | TBD | --
 Thu 11/2 | 4. GLMs: General theory | TBD | TBD | --
 Tue 11/7 | 4. GLMs: General theory | TBD | TBD | --
 Thu 11/9 | 5. GLMs: Special cases | TBD | TBD | --
-Tue 11/14 | 5. GLMs: Special cases | TBD | TBD | --
+Tue 11/14 | 5. GLMs: Special cases | TBD | TBD | Homework 4 due at 10am
 Thu 11/16 | 5. GLMs: Special cases | TBD | TBD | --
 Tue 11/21 | 5. GLMs: Special cases | TBD | TBD | --
 Thu 11/23 | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break)
 Tue 11/28 | 5. GLMs: Special cases | TBD | TBD | --
 Thu 11/30 | Further topics | TBD | TBD | --
-Tue 12/5 | Further topics | TBD | TBD | --
+Tue 12/5 | Further topics | TBD | TBD | Homework 5 due at 10am
 Thu 12/7 | Further topics | TBD | TBD | --
