@@ -9,10 +9,6 @@ nav_order: 1
 
 ## Course Schedule
 
-# STAT 9610 (Fall 2023)
-
-## Course Schedule
-
 Date | Unit | Topic | Readings | Assignments
 :---|:---|:---|:---|:---
 Tue 8/29 | 1. Linear models: Estimation | TBD | TBD | --
