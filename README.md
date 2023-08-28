@@ -17,7 +17,7 @@ Tue 9/5 | 1. Linear models: Estimation | TBD | TBD | --
 Thu 9/7 | 1. Linear models: Estimation | TBD | TBD | --
 Tue 9/12 | 1. Linear models: Estimation | TBD | TBD | --
 Thu 9/14 | 2. Linear models: Inference | TBD | TBD | --
-Tue 9/19 | 2. Linear models: Inference | TBD | TBD | Homework 1 due at 10am
+Tue 9/19 | 2. Linear models: Inference | TBD | TBD | Homework 1 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-1.pdf), [GitHub](https://classroom.github.com/a/KzuAkNWE))
 Thu 9/21 | 2. Linear models: Inference | TBD | TBD | --
 Tue 9/26 | 2. Linear models: Inference | TBD | TBD | --
 Thu 9/28 | 2. Linear models: Inference | TBD | TBD | --

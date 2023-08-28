@@ -7,7 +7,8 @@ nav_order: 7
 
 ## Textbooks
 
-- [R for Data Science](https://r4ds.had.co.nz/): R programming background
+- [Generalized Linear Models with Examples in R](https://upenn.alma.exlibrisgroup.com/view/uresolver/01UPENN_INST/openurl?Force_direct=true&test_access=true&&portfolio_pid=53627246850003681&rfr_id=info%3Asid%2Fprimo.exlibrisgroup.com&u.ignore_date_coverage=true): One of our two optional statistics textbooks
+- [R for Data Science](https://r4ds.hadley.nz/): R programming background
 
 ## Programming
 
