@@ -21,4 +21,3 @@ nav_order: 8
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
