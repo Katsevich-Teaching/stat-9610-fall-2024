@@ -1,6 +1,6 @@
 ---
 name: Yangxinyu Xie
-role: TA
+role: Teaching Assistant
 website: https://xieyangxinyu.github.io/
 photo: Xinyu_Xie.jpeg
 office-hours: Wed 9:00-10:00am in ARB 421
