@@ -11,7 +11,7 @@ nav_order: 1
 
 Date | Unit | Topic | Readings | Assignments
 :---|:---|:---|:---|:---
-Tue 8/29 | 1. Linear models: Estimation | Geometry of least squares | Lectures notes 1.1-1.5 | --
+Tue 8/29 | 1. Linear models: Estimation | Geometry of least squares | Lectures notes 1.1-1.5 | [Recording](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fcdb9509-6a0e-4e2e-bb68-b04400e9b49e)
 Thu 8/31 | 1. Linear models: Estimation | Variance decompositions; regression to the mean | Lectures notes 1.6 | --
 Tue 9/5 | 1. Linear models: Estimation | Collinearity; adjustment; connections to causal inference | Lecture notes 1.7 | --
 Thu 9/7 | 1. Linear models: Estimation | tidyverse; programming best practices; Unit 1 R demo | Lecture notes 1.8 | --
