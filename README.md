@@ -14,7 +14,7 @@ Date | Unit | Topic | Readings | Assignments
 Tue 8/29 | 1. Linear models: Estimation | [Geometry of least squares](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fcdb9509-6a0e-4e2e-bb68-b04400e9b49e) | Lectures notes 1.1-1.4 | --
 Thu 8/31 | 1. Linear models: Estimation | Variance decompositions; regression to the mean | Lectures notes 1.5-1.6 | --
 Tue 9/5 | 1. Linear models: Estimation | Collinearity; adjustment; connections to causal inference | Lecture notes 1.7 | --
-Thu 9/7 | 1. Linear models: Estimation | tidyverse; programming best practices; Unit 1 R demo | Lecture notes 1.8 | --
+Thu 9/7 | 1. Linear models: Estimation | [tidyverse](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/crash_course_tidyverse.pdf); [programming best practices](https://ekatsevi.github.io/files/best-programming-practices.pdf); Unit 1 R demo | Lecture notes 1.8 | --
 Tue 9/12 | 1. Linear models: Estimation | Creating high-quality figures; Git and GitHub; Linux command line; high-performance computing | -- | --
 Thu 9/14 | 2. Linear models: Inference | TBD | TBD | --
 Tue 9/19 | 2. Linear models: Inference | TBD | TBD | Homework 1 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-1.pdf), [GitHub](https://classroom.github.com/a/KzuAkNWE))
