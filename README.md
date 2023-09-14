@@ -16,7 +16,7 @@ Thu 8/31 | 1. Linear models: Estimation | [Variance decompositions; regression t
 Tue 9/5 | 1. Linear models: Estimation | [Collinearity; adjustment; connections to causal inference](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4303309-6dfc-4b41-ae17-b06f0101f8f7) | Lecture notes 1.7 | --
 Thu 9/7 | 1. Linear models: Estimation | [tidyverse; programming best practices](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dea1451d-a793-4263-9bc4-b074013f203e) | [tidyverse](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/crash_course_tidyverse.pdf); [programming best practices](https://ekatsevi.github.io/files/best-programming-practices.pdf); [R4DS](https://r4ds.hadley.nz/) Ch. 1-9  | --
 Tue 9/12 | 1. Linear models: Estimation | [Creating high-quality figures; Git and GitHub; Linux command line; Unit 1 R demo](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9511c953-0000-4af2-a2ff-b05b00d995d1) | Lecture notes 1.8 | --
-Thu 9/14 | 2. Linear models: Inference | 	Inferential preliminaries | Lecture notes 2.1, 2.2.1 | --
+Thu 9/14 | 2. Linear models: Inference | 	[Inferential preliminaries](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca349ad2-9eec-40db-b05f-b07a004490d4) | Lecture notes 2.1, 2.2.1 | --
 Tue 9/19 | 2. Linear models: Inference | 	Hypothesis testing | Lecture notes 2.2.2 | Homework 1 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-1.pdf), [GitHub](https://classroom.github.com/a/KzuAkNWE))
 Thu 9/21 | 2. Linear models: Inference | Power of hypothesis testing | Lecture notes 2.3 | --
 Tue 9/26 | 2. Linear models: Inference | Confidence intervals, practical considerations | Lecture notes 2.4, 2.5 | --
