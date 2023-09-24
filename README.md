@@ -18,7 +18,7 @@ Thu 9/7 | 1. Linear models: Estimation | [tidyverse; programming best practices]
 Tue 9/12 | 1. Linear models: Estimation | [Creating high-quality figures; Git and GitHub; Linux command line; Unit 1 R demo](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9511c953-0000-4af2-a2ff-b05b00d995d1) | Lecture notes 1.8 | --
 Thu 9/14 | 2. Linear models: Inference | 	[Inferential preliminaries](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca349ad2-9eec-40db-b05f-b07a004490d4) | Lecture notes 2.1, 2.2.1 | --
 Tue 9/19 | 2. Linear models: Inference | 	[Hypothesis testing](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d589a287-630f-4717-a7f6-b07b01269ae2) | Lecture notes 2.2.2 | Homework 1 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-1.pdf), [GitHub](https://classroom.github.com/a/KzuAkNWE))
-Thu 9/21 | 2. Linear models: Inference | Power of hypothesis testing | Lecture notes 2.3 | --
+Thu 9/21 | 2. Linear models: Inference | [Power of hypothesis testing](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3dcf2b2d-219d-48e1-a161-b08200ea389a) | Lecture notes 2.3 | --
 Tue 9/26 | 2. Linear models: Inference | Confidence intervals, practical considerations | Lecture notes 2.4, 2.5 | --
 Thu 9/28 | 2. Linear models: Inference | Unit 2 R demo; high-performance computing | Lecture notes 2.6 | --
 Tue 10/3 | 3. Linear models: Misspecification | TBD | TBD | --
