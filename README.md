@@ -23,7 +23,7 @@ Tue 9/26 | 2. Linear models: Inference | [Confidence intervals, practical consid
 Thu 9/28 | 2. Linear models: Inference | [Unit 2 R demo; high-performance computing](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7ea92ad-e962-4f5b-917c-b08b00cddb81) | Lecture notes 2.6; [HPC basics](https://ekatsevi.github.io/statistical-computing/hpc-basics.html) | --
 Tue 10/3 | 3. Linear models: Misspecification | [Overview of misspecification I](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b71f214b-2b9a-402a-9d94-b04301403141) | Lecture notes 3.1 | --
 Thu 10/5 | 3. Linear models: Misspecification | [Overview of misspecification II](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad1531b6-acb9-430a-9eec-b091014d76ab) | Lecture notes 3.1  | --
-Tue 10/10 | 3. Linear models: Misspecification | Sandwich covariances, random effects models, feasible GLS | Lecture notes 3.2 | Homework 2 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-2.pdf); [GitHub](https://classroom.github.com/a/ScMuFdoo))
+Tue 10/10 | 3. Linear models: Misspecification | [Sandwich covariances, random effects models, feasible GLS](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a431425-1f27-4877-8402-b09300fda659) | Lecture notes 3.2 | Homework 2 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-2.pdf); [GitHub](https://classroom.github.com/a/ScMuFdoo))
 Thu 10/12 | (Fall break) | (Fall break) | (Fall break) | (Fall break)
 Tue 10/17 | 3. Linear models: Misspecification | The bootstrap and the permutation test | Lectures notes 3.3, 3.4 | --
 Thu 10/19 | 3. Linear models: Misspecification | Robust estimation, R demo | Lecture notes 3.5, 3.6 | --
