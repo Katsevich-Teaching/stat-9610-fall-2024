@@ -25,7 +25,7 @@ Tue 10/3 | 3. Linear models: Misspecification | [Overview of misspecification I]
 Thu 10/5 | 3. Linear models: Misspecification | [Overview of misspecification II](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad1531b6-acb9-430a-9eec-b091014d76ab) | Lecture notes 3.1  | --
 Tue 10/10 | 3. Linear models: Misspecification | [Sandwich covariances, random effects models, feasible GLS](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a431425-1f27-4877-8402-b09300fda659) | Lecture notes 3.2 | Homework 2 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-2.pdf); [GitHub](https://classroom.github.com/a/ScMuFdoo); [Solutions](https://canvas.upenn.edu/courses/1741629/files/folder/Homework%20Solutions?preview=127031495))
 Thu 10/12 | (Fall break) | (Fall break) | (Fall break) | (Fall break)
-Tue 10/17 | 3. Linear models: Misspecification | The bootstrap and the permutation test | Lectures notes 3.3, 3.4 | --
+Tue 10/17 | 3. Linear models: Misspecification | [The bootstrap and the permutation test](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ea65731-2fd5-4760-8e9e-b09901221425) | Lectures notes 3.3, 3.4 | --
 Thu 10/19 | 3. Linear models: Misspecification | Robust estimation, R demo | Lecture notes 3.5, 3.6 | --
 Tue 10/24 | 4. GLMs: General theory | TBD | TBD | --
 Thu 10/26 | 4. GLMs: General theory | TBD | TBD | Homework 3 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-3.pdf); [GitHub](https://classroom.github.com/a/0LnBtUAf))
