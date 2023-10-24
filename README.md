@@ -27,11 +27,11 @@ Tue 10/10 | 3. Linear models: Misspecification | [Sandwich covariances, random e
 Thu 10/12 | (Fall break) | (Fall break) | (Fall break) | (Fall break)
 Tue 10/17 | 3. Linear models: Misspecification | [The bootstrap and the permutation test](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ea65731-2fd5-4760-8e9e-b09901221425) | Lectures notes 3.3, 3.4 | --
 Thu 10/19 | 3. Linear models: Misspecification | [Robust estimation, R demo](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=109e0836-48d2-4d86-a042-b09a015abb4f) | Lecture notes 3.5, 3.6 | --
-Tue 10/24 | 4. GLMs: General theory | TBD | TBD | --
-Thu 10/26 | 4. GLMs: General theory | TBD | TBD | Homework 3 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-3.pdf); [GitHub](https://classroom.github.com/a/0LnBtUAf))
-Tue 10/31 | 4. GLMs: General theory | TBD | TBD | --
-Thu 11/2 | 4. GLMs: General theory | TBD | TBD | --
-Tue 11/7 | 4. GLMs: General theory | TBD | TBD | --
+Tue 10/24 | 4. GLMs: General theory | Exponential dispersion models | Lecture notes 4.1 | --
+Thu 10/26 | 4. GLMs: General theory | Saddlepoint approximation, GLM definition | Lecture notes 4.1-4.2 | Homework 3 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-3.pdf); [GitHub](https://classroom.github.com/a/0LnBtUAf))
+Tue 10/31 | 4. GLMs: General theory | Estimation in GLMs | Lecture notes 4.3 | --
+Thu 11/2 | 4. GLMs: General theory | Inference in GLMs | Lecture notes 4.4 | --
+Tue 11/7 | 4. GLMs: General theory | Inference in GLMs and R demo | Lecture notes 4.4-4.5 | --
 Thu 11/9 | 5. GLMs: Special cases | TBD | TBD | --
 Tue 11/14 | 5. GLMs: Special cases | TBD | TBD | Homework 4 due at 10am
 Thu 11/16 | 5. GLMs: Special cases | TBD | TBD | --
