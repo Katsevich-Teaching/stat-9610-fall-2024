@@ -42,4 +42,4 @@ Thu 11/30 | Further topics | TBD | TBD | --
 Tue 12/5 | Further topics | TBD | TBD | Homework 5 due at 10am
 Thu 12/7 | Further topics | TBD | TBD | --
 Thu 12/14 | -- | -- | -- | Take-home final exam released at 9am
-Sun 12/17 | -- | -- | -- | Take-home final exam due at 9pm.
+Mon 12/18 | -- | -- | -- | Take-home final exam due at 9pm.
