@@ -32,7 +32,7 @@ Thu 10/26 | 4. GLMs: General theory | [Saddlepoint approximation, GLM definition
 Tue 10/31 | 4. GLMs: General theory | [Estimation in GLMs](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce13fd18-14ee-4322-ad74-b0a100fdc642) | Lecture notes 4.3 | --
 Thu 11/2 | 4. GLMs: General theory | [Inference in GLMs](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aae3c9ac-675b-4f76-8cae-b0a1010c8361) | Lecture notes 4.4 | --
 Tue 11/7 | 4. GLMs: General theory | [Inference in GLMs and R demo](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21de293a-5c23-4932-85dd-b0a1011f3a35) | Lecture notes 4.4-4.5 | --
-Thu 11/9 | 5. GLMs: Special cases | Logistic regression | Lecture notes 5.1 | --
+Thu 11/9 | 5. GLMs: Special cases | [Logistic regression](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9b96c30-0e75-4bf2-9893-b0a101243001) | Lecture notes 5.1 | --
 Tue 11/14 | 5. GLMs: Special cases | Poisson regression I | Lecture notes 5.2 | 
 Thu 11/16 | 5. GLMs: Special cases | Poisson regression II | Lecture notes 5.2 | Homework 4 due at 9pm ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-4.pdf); [GitHub](https://classroom.github.com/a/aXBmuTzc))
 Tue 11/21 | 5. GLMs: Special cases | Negative binomial regression | Lecture notes 5.3 | --
