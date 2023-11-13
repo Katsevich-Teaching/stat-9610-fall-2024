@@ -39,7 +39,7 @@ Tue 11/21 | 5. GLMs: Special cases | Negative binomial regression | Lecture note
 Thu 11/23 | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break)
 Tue 11/28 | 5. GLMs: Special cases | R demo | Lecture notes 5.4 | --
 Thu 11/30 | Further topics | TBD | TBD | --
-Tue 12/5 | Further topics | TBD | TBD | Homework 5 due at 10am
+Tue 12/5 | Further topics | TBD | TBD | Homework 5 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-4.pdf), [GitHub](https://classroom.github.com/a/5AvMlq4M))
 Thu 12/7 | Further topics | TBD | TBD | --
 Thu 12/14 | -- | -- | -- | Take-home final exam released at 9am
 Mon 12/18 | -- | -- | -- | Take-home final exam due at 9pm.
