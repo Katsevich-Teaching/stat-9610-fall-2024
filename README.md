@@ -33,7 +33,7 @@ Tue 10/31 | 4. GLMs: General theory | [Estimation in GLMs](https://upenn.hosted.
 Thu 11/2 | 4. GLMs: General theory | [Inference in GLMs](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aae3c9ac-675b-4f76-8cae-b0a1010c8361) | Lecture notes 4.4 | --
 Tue 11/7 | 4. GLMs: General theory | [Inference in GLMs and R demo](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21de293a-5c23-4932-85dd-b0a1011f3a35) | Lecture notes 4.4-4.5 | --
 Thu 11/9 | 5. GLMs: Special cases | [Logistic regression I](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9b96c30-0e75-4bf2-9893-b0a101243001) | Lecture notes 5.1 | --
-Tue 11/14 | 5. GLMs: Special cases | [Logistic regression II](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aef1358c-b973-4fc7-9976-b0a400eda9d4) | Lecture notes 5.2 | 
+Tue 11/14 | 5. GLMs: Special cases | [Logistic regression II](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aef1358c-b973-4fc7-9976-b0a400eda9d4) | Lecture notes 5.1 | 
 Thu 11/16 | 5. GLMs: Special cases | [Poisson regression I](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce181788-7a1d-410a-8e80-b0a400f043be) | Lecture notes 5.2 | Homework 4 due at 9pm ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-4.pdf); [GitHub](https://classroom.github.com/a/aXBmuTzc))
 Tue 11/21 | 5. GLMs: Special cases | Poisson regression II and negative binomial regression I | Lecture notes 5.3 | --
 Thu 11/23 | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break)
