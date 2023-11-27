@@ -37,9 +37,9 @@ Tue 11/14 | 5. GLMs: Special cases | [Logistic regression II](https://upenn.host
 Thu 11/16 | 5. GLMs: Special cases | [Poisson regression I](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce181788-7a1d-410a-8e80-b0a400f043be) | Lecture notes 5.2 | Homework 4 due at 9pm ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-4.pdf); [GitHub](https://classroom.github.com/a/aXBmuTzc))
 Tue 11/21 | 5. GLMs: Special cases | [Poisson regression II and negative binomial regression I](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4ecf7b6-65f1-45e4-803a-b0c00185b270) | Lecture notes 5.3 | --
 Thu 11/23 | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break) | (Thanksgiving break)
-Tue 11/28 | 5. GLMs: Special cases | Negative binomial regression II and R demo | Lecture notes 5.4 | --
-Thu 11/30 | Further topics | TBD | TBD | --
-Tue 12/5 | Further topics | TBD | TBD | Homework 5 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-5.pdf), [GitHub](https://classroom.github.com/a/5AvMlq4M))
-Thu 12/7 | Further topics | TBD | TBD | --
+Tue 11/28 | 5. GLMs: Special cases | Negative binomial regression II and R demo | Lecture notes 5.3 and 5.4 | --
+Thu 11/30 | 6. Multiple testing | Intro to multiple testing and global testing | Lecture notes 6.1 and 6.2  | --
+Tue 12/5 | 6. Multiple testing | Multiple testing I | Lectures notes 6.3 | Homework 5 due at 10am ([PDF](https://katsevich-teaching.github.io/stat-9610-fall-2023/assets/homework-5.pdf), [GitHub](https://classroom.github.com/a/5AvMlq4M))
+Thu 12/7 | 6. Multiple testing | Multiple testing II | Lectures notes 6.3 | --
 Thu 12/14 | -- | -- | -- | Take-home final exam released at 9am
 Mon 12/18 | -- | -- | -- | Take-home final exam due at 9pm.
