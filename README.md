@@ -7,7 +7,7 @@ nav_order: 1
 
 # STAT 9610 (Fall 2024)
 
-## Course Schedule <small>(subject to change)</small>
+## Course Schedule <span style="font-size: 80%; color: gray;">(subject to change)</span>
 
 | Date | Unit | Topic | Readings | Assignments |
 |------|------|-------|----------|-------------|
@@ -19,9 +19,9 @@ nav_order: 1
 | Thu 9/14 | 2. Linear models: Inference | Hypothesis testing | Lecture notes 2.2.2 | Homework 1 due at 10am |
 | Tue 9/19 | 2. Linear models: Inference | Power of hypothesis testing | Lecture notes 2.3 | -- |
 | Thu 9/21 | 2. Linear models: Inference | Confidence intervals, practical considerations | Lecture notes 2.4, 2.5 | -- |
-| Tue 9/26 | 3. Linear models: Misspecification | Overview of misspecification I | Lecture notes 3.1 | -- |
-| Thu 9/28 | 3. Linear models: Misspecification | Overview of misspecification II | Lecture notes 3.1 | -- |
-| Tue 10/3 | (Fall Break) | -- | -- | Homework 2 due at 10am |
+| Tue 9/26 | 3. Linear models: Misspecification | Overview of misspecification | Lecture notes 3.1 | -- |
+| Thu 9/28 | 3. Linear models: Misspecification | Overview of misspecification | Lecture notes 3.1 | Homework 2 due at 10am |
+| Tue 10/3 | (Fall Break) | -- | -- | -- |
 | Thu 10/5 | 3. Linear models: Misspecification | Sandwich covariances, random effects models, feasible GLS | Lecture notes 3.2 | -- |
 | Tue 10/10 | 3. Linear models: Misspecification | The bootstrap and the permutation test | Lectures notes 3.3, 3.4 | -- |
 | Thu 10/12 | 3. Linear models: Misspecification | Robust estimation | Lecture notes 3.5, 3.6 | -- |
@@ -36,8 +36,8 @@ nav_order: 1
 | Tue 11/14 | 5. GLMs: Special cases | Poisson regression and negative binomial regression I | Lecture notes 5.3 | -- |
 | Thu 11/16 | 5. GLMs: Special cases | Negative binomial regression | Lecture notes 5.3 and 5.4 | -- |
 | Tue 11/21 | 6. Multiple testing | Intro to multiple testing and global testing | Lecture notes 6.1 and 6.2 | -- |
-| Tue 11/26 | 6. Multiple testing | TBD | Lectures notes 6.3 | Homework 5 due at 10am |
+| Tue 11/26 | 6. Multiple testing | TBD | TBD | Homework 5 due at 10am |
 | Thu 11/28 | (Thanksgiving break) | -- | -- | -- |
-| Tue 12/3 | 6. Multiple testing | TBD | Lectures notes 6.3 | -- |
-| Thu 12/5 | 6. Multiple testing | TBD | Lectures notes 6.3 | -- |
+| Tue 12/3 | 6. Multiple testing | TBD | TBD | -- |
+| Thu 12/5 | 6. Multiple testing | TBD | TBD | -- |
 | Mon 12/9 | -- | -- | -- | Homework 6 due at 9pm | 
