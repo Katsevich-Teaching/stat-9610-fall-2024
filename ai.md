@@ -25,7 +25,7 @@ AI tools like ChatGPT will accelerate statistics and data science in the coming 
 
 - **Editing writing.** If you give ChatGPT some of your written work, it can suggest how you can make it clearer or more fluent. This is particularly useful for non-native English speakers.
 
-- **Mathematical derivations.** Currently, ChatGPT is not very good at mathematical derivations. 
+- **~~Mathematical derivations~~.** Currently, ChatGPT is not very good at mathematical derivations. 
 
 ## Disclaimer
 
