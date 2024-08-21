@@ -16,7 +16,7 @@ nav_order: 1
 | Tue 9/3 | 1. Linear models: Estimation | Collinearity; adjustment; connections to causal inference | Chapter [7](https://katsevich-teaching.github.io/stat-9610-notes/collinearity.html) | -- |
 | Thu 9/7 | -- | Statistical computing | Chapter [8](https://katsevich-teaching.github.io/stat-9610-notes/r-demo-part-1.html), [R4DS](https://r4ds.hadley.nz/) Chapters 1, 3 | -- |
 | Tue 9/12 | 2. Linear models: Inference | Inferential preliminaries | Chapter [9](https://katsevich-teaching.github.io/stat-9610-notes/building-blocks.html) | -- |
-| Thu 9/14 | 2. Linear models: Inference | Hypothesis testing | Chapter [10](https://katsevich-teaching.github.io/stat-9610-notes/hypothesis-testing.html) | Homework 1 due at 10am |
+| Thu 9/14 | 2. Linear models: Inference | Hypothesis testing | Chapter [10](https://katsevich-teaching.github.io/stat-9610-notes/hypothesis-testing.html) | Homework 1 due at 10am ([GitHub](https://classroom.github.com/a/TbMJKcSG), [PDF](https://katsevich-teaching.github.io/stat-9610-fall-2024/assets/homework-1.pdf)) |
 | Tue 9/19 | 2. Linear models: Inference | Power of hypothesis testing | Chapter [11](https://katsevich-teaching.github.io/stat-9610-notes/power.html) | -- |
 | Thu 9/21 | 2. Linear models: Inference | Confidence intervals, practical considerations | Chapters [12](https://katsevich-teaching.github.io/stat-9610-notes/confidence-intervals.html), [13](https://katsevich-teaching.github.io/stat-9610-notes/practical-considerations.html), [14](https://katsevich-teaching.github.io/stat-9610-notes/r-demo-part-2.html) | -- |
 | Tue 9/26 | 3. Linear models: Misspecification | Overview of misspecification | Chapter [15](https://katsevich-teaching.github.io/stat-9610-notes/misspecification-overview.html) | -- |
