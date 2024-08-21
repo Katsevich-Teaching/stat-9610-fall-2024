@@ -40,5 +40,5 @@ nav_order: 1
 | Tue 11/26 | 6. Multiple testing | FWER and FDR control | Chapter [32](https://katsevich-teaching.github.io/stat-9610-notes/multiple-testing-chapter.html) | -- |
 | Thu 11/28 | (Thanksgiving Break) | -- | -- | -- |
 | Tue 12/3 | 6. Multiple testing | TBD | TBD | -- |
-| Thu 12/5 | -- | 6. Multiple testing | TBD | TBD |
+| Thu 12/5 | 6. Multiple testing | TBD | TBD | -- |
 | Mon 12/9 | -- | -- | -- | Homework 6 due at 9pm |
