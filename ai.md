@@ -11,15 +11,13 @@ AI tools like ChatGPT will accelerate statistics and data science in the coming 
 
 ## Tools
 
--  **[ChatGPT](https://chat.openai.com/).** ChatGPT Enterprise will be available to all Wharton doctoral students this fall; see [this page](https://support.wharton.upenn.edu/help/chatgpt-enterprise) for instructions and resources. For other students, note that limited access to the latest ChatGPT model (GPT 4o) is available through the ChatGPT free plan.
+-  **[ChatGPT](https://chat.openai.com/).** ChatGPT Enterprise will be available to all STAT 9610 students this fall; see [this page](https://support.wharton.upenn.edu/help/chatgpt-enterprise) for instructions and resources.
 
-- **[GitHub Copilot](https://github.com/features/copilot).** This AI-based autocomplete tool is free for students (see [these instructions](https://openaimaster.com/github-copilot-free-for-students/) for getting access). It can be used [within RStudio](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html) (for R) or [within Visual Studio Code](https://code.visualstudio.com/docs/copilot/overview) (for LaTeX).
+- **[GitHub Copilot](https://github.com/features/copilot).** This AI-based autocomplete tool is free for students (see [these instructions](https://openaimaster.com/github-copilot-free-for-students/) for getting access). It can be used [within RStudio](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html) (for R) or [within Visual Studio Code](https://code.visualstudio.com/docs/copilot/overview) (for LaTeX). You can prompt GitHub Copilot with code comments. 
 
 ## Relevant use-cases
 
-- **Writing code.** One of AI's current strengths is writing code. This makes it less important for programmers to memorize or look up programming syntax. Especially for relatively short, concrete tasks, ChatGPT or GitHub Copilot can provide very good first drafts of code chunks. 
-
-- **Debugging code.** ChatGPT is also good at recognizing error messages and suggesting fixes. 
+- **Programming.** Programming is one of AI's current strengths. This makes it less important for programmers to memorize or look up programming syntax. I recommend drafting code chunks using GitHub Copilot, because it is conveniently integrated into RStudio. If this is insufficient, especially for longer or more complex code chunks, ask ChatGPT to write the code for you and paste it into RStudio. If you have errors, then paste both your code and your error messages into ChatGPT. If this doesn't help, then Google your error message. Sometimes, websites like Stackoverflow still have insights that ChatGPT does not have.
 
 - **Learning statistics.** ChatGPT knows about a lot of statistical concepts, and can explain them or answer questions about them. 
 
