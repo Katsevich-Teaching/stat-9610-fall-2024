@@ -20,7 +20,7 @@ nav_order: 1
 | Tue 9/17 | 2. Linear models: Inference | Power of hypothesis testing | Chapter [9](https://katsevich-teaching.github.io/stat-9610-notes/power.html) | -- |
 | Thu 9/19 | 2. Linear models: Inference | Confidence intervals; practical considerations | Chapters [10](https://katsevich-teaching.github.io/stat-9610-notes/confidence-intervals.html), [11](https://katsevich-teaching.github.io/stat-9610-notes/practical-considerations.html), [12](https://katsevich-teaching.github.io/stat-9610-notes/r-demo-part-2.html) | -- |
 | Tue 9/24 | 3. Linear models: Misspecification | Overview of misspecification | Chapter [13](https://katsevich-teaching.github.io/stat-9610-notes/misspecification-overview.html) | -- |
-| Thu 9/26 | 3. Linear models: Misspecification | Overview of misspecification | Chapter [13](https://katsevich-teaching.github.io/stat-9610-notes/misspecification-overview.html) | Homework 2 due at 10am |
+| Thu 9/26 | 3. Linear models: Misspecification | Overview of misspecification | Chapter [13](https://katsevich-teaching.github.io/stat-9610-notes/misspecification-overview.html) | Homework 2 due at 10am ([GitHub](https://classroom.github.com/a/ghi1ob0X), [PDF](https://katsevich-teaching.github.io/stat-9610-fall-2024/assets/homework-2.pdf)) |
 | Tue 10/1 | 3. Linear models: Misspecification | Robust asymptotic inference | Chapter [14](https://katsevich-teaching.github.io/stat-9610-notes/asymptotic-methods.html) | -- |
 | Thu 10/3 | (Fall Break) | -- | -- | -- |
 | Tue 10/8 | 3. Linear models: Misspecification | The bootstrap | Chapter [15](https://katsevich-teaching.github.io/stat-9610-notes/asymptotic-methods.html) | -- |
