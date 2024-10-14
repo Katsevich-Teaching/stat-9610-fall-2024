@@ -31,7 +31,7 @@ nav_order: 1
 | Thu 10/24 | 4. GLMs: General theory | Inference in GLMs | Chapter [22](https://katsevich-teaching.github.io/stat-9610-notes/glm-inference.html) | -- |
 | Tue 10/29 | 4. GLMs: General theory | Inference in GLMs | Chapters [22](https://katsevich-teaching.github.io/stat-9610-notes/glm-inference.html), [23](https://katsevich-teaching.github.io/stat-9610-notes/r-demo-part-4.html) | -- |
 | Thu 10/31 | 5. GLMs: Special cases | Logistic regression | Chapter [24](https://katsevich-teaching.github.io/stat-9610-notes/logistic-regression.html) | -- |
-| Tue 11/5 | 5. GLMs: Special cases | Logistic regression | Chapter [24](https://katsevich-teaching.github.io/stat-9610-notes/logistic-regression.html) | Homework 4 due at 9pm |
+| Tue 11/5 | 5. GLMs: Special cases | Logistic regression | Chapter [24](https://katsevich-teaching.github.io/stat-9610-notes/logistic-regression.html) | Homework 4 due at 9pm ([GitHub](https://classroom.github.com/a/k11QeFjd), [PDF](https://katsevich-teaching.github.io/stat-9610-fall-2024/assets/homework-4.pdf)) |
 | Thu 11/7 | 5. GLMs: Special cases | Poisson regression | Chapter [25](https://katsevich-teaching.github.io/stat-9610-notes/poisson-regression.html) | -- |
 | Tue 11/12 | 5. GLMs: Special cases | Poisson regression | Chapter [25](https://katsevich-teaching.github.io/stat-9610-notes/poisson-regression.html) | -- |
 | Thu 11/14 | 5. GLMs: Special cases | Negative binomial regression | Chapters [26](https://katsevich-teaching.github.io/stat-9610-notes/negative-binomial-regression.html), [27](https://katsevich-teaching.github.io/stat-9610-notes/r-demo-part-5.html) | -- |
