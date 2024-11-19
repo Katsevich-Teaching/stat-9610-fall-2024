@@ -29,16 +29,17 @@ nav_order: 1
 | Thu 10/17 | 4. GLMs: General theory | Unit deviance, saddlepoint approximation | Chapter [19](https://katsevich-teaching.github.io/stat-9610-notes/exponential-dispersion-models.html) | Homework 3 due at 10am ([GitHub](https://classroom.github.com/a/sW7K8A71), [PDF](https://katsevich-teaching.github.io/stat-9610-fall-2024/assets/homework-3.pdf)) |
 | Tue 10/22 | 4. GLMs: General theory | GLM definition and estimation | Chapter [20](https://katsevich-teaching.github.io/stat-9610-notes/generalized-linear-models.html), [21](https://katsevich-teaching.github.io/stat-9610-notes/parameter-estimation.html) | -- |
 | Thu 10/24 | 4. GLMs: General theory | Inference in GLMs | Chapter [22](https://katsevich-teaching.github.io/stat-9610-notes/glm-inference.html) | -- |
-| Tue 10/29 | 4. GLMs: General theory | Inference in GLMs | Chapters [22](https://katsevich-teaching.github.io/stat-9610-notes/glm-inference.html), [23](https://katsevich-teaching.github.io/stat-9610-notes/r-demo-part-4.html) | -- |
-| Thu 10/31 | 5. GLMs: Special cases | Logistic regression | Chapter [24](https://katsevich-teaching.github.io/stat-9610-notes/logistic-regression.html) | -- |
-| Tue 11/5 | 5. GLMs: Special cases | Logistic regression | Chapter [24](https://katsevich-teaching.github.io/stat-9610-notes/logistic-regression.html) | -- |
-| Thu 11/7 | 5. GLMs: Special cases | Poisson regression | Chapter [25](https://katsevich-teaching.github.io/stat-9610-notes/poisson-regression.html) | Homework 4 due at 9pm ([GitHub](https://classroom.github.com/a/k11QeFjd), [PDF](https://katsevich-teaching.github.io/stat-9610-fall-2024/assets/homework-4.pdf)) |
-| Tue 11/12 | 5. GLMs: Special cases | Poisson regression | Chapter [25](https://katsevich-teaching.github.io/stat-9610-notes/poisson-regression.html) | -- |
-| Thu 11/14 | 5. GLMs: Special cases | Negative binomial regression | Chapters [26](https://katsevich-teaching.github.io/stat-9610-notes/negative-binomial-regression.html), [27](https://katsevich-teaching.github.io/stat-9610-notes/r-demo-part-5.html) | -- |
-| Tue 11/19 | 6. Multiple testing | Intro to multiple testing and global testing | Chapter [28](https://katsevich-teaching.github.io/stat-9610-notes/multiple-testing-intro.html) | -- |
-| Thu 11/21 | 6. Multiple testing | Global testing | Chapter [29](https://katsevich-teaching.github.io/stat-9610-notes/global-testing.html) | Homework 5 due at 10am ([GitHub](https://classroom.github.com/a/Wh0ed-fP), [PDF](https://katsevich-teaching.github.io/stat-9610-fall-2024/assets/homework-5.pdf)) |
-| Tue 11/26 | 6. Multiple testing | FWER and FDR control | Chapter [30](https://katsevich-teaching.github.io/stat-9610-notes/multiple-testing-chapter.html) | -- |
-| Thu 11/28 | (Thanksgiving Break) | -- | -- | -- |
-| Tue 12/3 | 6. Multiple testing | TBD | TBD | -- |
-| Thu 12/5 | 6. Multiple testing | TBD | TBD | -- |
-| Mon 12/9 | -- | -- | -- | Homework 6 due at 9pm |
+| Tue 10/29| 4. GLMs: General theory| Inference in GLMs| Chapters [22](https://katsevich-teaching.github.io/stat-9610-notes/glm-inference.html), [23](https://katsevich-teaching.github.io/stat-9610-notes/r-demo-part-4.html)| --|
+| Thu 10/31| 4. GLMs: General theory| Inference in GLMs| Chapters [22](https://katsevich-teaching.github.io/stat-9610-notes/glm-inference.html), [23](https://katsevich-teaching.github.io/stat-9610-notes/r-demo-part-4.html)| --|
+| Tue 11/5| 5. GLMs: Special cases| Logistic regression| Chapter [24](https://katsevich-teaching.github.io/stat-9610-notes/logistic-regression.html)| --|
+| Thu 11/7| 5. GLMs: Special cases| Logistic regression| Chapter [24](https://katsevich-teaching.github.io/stat-9610-notes/logistic-regression.html)| Homework 4 due at 9pm ([GitHub](https://classroom.github.com/a/k11QeFjd), [PDF](https://katsevich-teaching.github.io/stat-9610-fall-2024/assets/homework-4.pdf))|
+| Tue 11/12| 5. GLMs: Special cases| Poisson regression| Chapter [25](https://katsevich-teaching.github.io/stat-9610-notes/poisson-regression.html)| --|
+| Thu 11/14| 5. GLMs: Special cases| Poisson regression| Chapter [25](https://katsevich-teaching.github.io/stat-9610-notes/poisson-regression.html)| --|
+| Tue 11/19| 5. GLMs: Special cases| Negative binomial regression| Chapters [26](https://katsevich-teaching.github.io/stat-9610-notes/negative-binomial-regression.html), [27](https://katsevich-teaching.github.io/stat-9610-notes/r-demo-part-5.html)| --|
+| Thu 11/21| 6. Multiple testing| Intro to multiple testing and global testing| Chapter [28](https://katsevich-teaching.github.io/stat-9610-notes/multiple-testing-intro.html)| Homework 5 due at 10am ([GitHub](https://classroom.github.com/a/Wh0ed-fP), [PDF](https://katsevich-teaching.github.io/stat-9610-fall-2024/assets/homework-5.pdf))|
+| Tue 11/26| 6. Multiple testing| Global testing| Chapter [29](https://katsevich-teaching.github.io/stat-9610-notes/global-testing.html)| --|
+| Thu 11/28| (Thanksgiving Break)| --| --| --|
+| Tue 12/3| 6. Multiple testing| FWER and FDR control| Chapter [30](https://katsevich-teaching.github.io/stat-9610-notes/multiple-testing-chapter.html)| --|
+| Thu 12/5| 6. Multiple testing| Advanced topics | TBD | --|
+| Thu 12/12 | -- | -- | -- | Final exam released at 9am EST | 
+| Tue 12/19 | -- | -- | -- | Final exam due at 9pm EST |
