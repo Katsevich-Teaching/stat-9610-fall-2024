@@ -36,8 +36,8 @@ nav_order: 1
 | Tue 11/12| 5. GLMs: Special cases| Poisson regression| Chapter [25](https://katsevich-teaching.github.io/stat-9610-notes/poisson-regression.html)| --|
 | Thu 11/14| 5. GLMs: Special cases| Poisson regression| Chapter [25](https://katsevich-teaching.github.io/stat-9610-notes/poisson-regression.html)| --|
 | Tue 11/19| 5. GLMs: Special cases| Negative binomial regression| Chapters [26](https://katsevich-teaching.github.io/stat-9610-notes/negative-binomial-regression.html), [27](https://katsevich-teaching.github.io/stat-9610-notes/r-demo-part-5.html)| --|
-| Thu 11/21| 6. Multiple testing| Intro to multiple testing and global testing| Chapter [28](https://katsevich-teaching.github.io/stat-9610-notes/multiple-testing-intro.html)| Homework 5 due at 10am ([GitHub](https://classroom.github.com/a/Wh0ed-fP), [PDF](https://katsevich-teaching.github.io/stat-9610-fall-2024/assets/homework-5.pdf))|
-| Tue 11/26| 6. Multiple testing| Global testing| Chapter [29](https://katsevich-teaching.github.io/stat-9610-notes/global-testing.html)| --|
+| Thu 11/21| 6. Multiple testing| Intro to multiple testing and global testing| Chapter [28](https://katsevich-teaching.github.io/stat-9610-notes/multiple-testing-intro.html)| -- |
+| Tue 11/26| 6. Multiple testing| Global testing| Chapter [29](https://katsevich-teaching.github.io/stat-9610-notes/global-testing.html)| Homework 5 due at 9pm ([GitHub](https://classroom.github.com/a/Wh0ed-fP), [PDF](https://katsevich-teaching.github.io/stat-9610-fall-2024/assets/homework-5.pdf)) |
 | Thu 11/28| (Thanksgiving Break)| --| --| --|
 | Tue 12/3| 6. Multiple testing| FWER and FDR control| Chapter [30](https://katsevich-teaching.github.io/stat-9610-notes/multiple-testing-chapter.html)| --|
 | Thu 12/5| 6. Multiple testing| Advanced topics | TBD | --|
