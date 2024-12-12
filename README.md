@@ -41,5 +41,5 @@ nav_order: 1
 | Thu 11/28| (Thanksgiving Break)| --| --| --|
 | Tue 12/3| 6. Multiple testing| FWER and FDR control| Chapter [30](https://katsevich-teaching.github.io/stat-9610-notes/multiple-testing-chapter.html)| --|
 | Thu 12/5| 6. Multiple testing| Advanced topics | TBD | --|
-| Thu 12/12 | -- | -- | -- | Final exam released at 9am EST | 
+| Thu 12/12 | -- | -- | -- | Final exam released at 9am EST ([GitHub](https://classroom.github.com/a/RUNj4wwJ)) | 
 | Tue 12/19 | -- | -- | -- | Final exam due at 9pm EST |
